@@ -1,0 +1,1 @@
+/usr/local/bin/python3 cpuwatch.py & /usr/local/bin/python3 memwatch.py & /usr/local/bin/python3 multcpuwatch.py
